@@ -1,0 +1,100 @@
+
+.top-container{
+    background: linear-gradient(300deg,#1e357b, #1caeb9,#f7f5f4);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+    padding-top: 100px;
+    text-align: center;
+    position: relative;
+    display: block;
+}
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+.thish1{
+    color: #111818;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: "Sacramento", cursive;
+}
+h2 {
+    color: #151717;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+.img-fluid{
+    height: 250px;
+    width: 275px;
+    border-radius: 50%;
+}
+.institution{
+    font-size: large;
+    font-weight: 300;
+}
+.contact{
+    text-align: center;
+    padding: 20px;
+}
+.btn{
+    background-color: rgb(52, 223, 214);
+}
+.contact > h4{
+    color: rgb(23, 88, 88); 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-size: x-large;
+}
+.contact > h1{
+    color: rgb(41, 147, 147); font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.contact > p{
+    font-family: "Merriweather", serif;
+    font-size:1.75rem;
+}
+.foot{
+    background: linear-gradient(300deg,#1e357b, #1caeb9,#f7f5f4);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+.info{
+    display: block;
+    text-align: center;
+}
+.photo{
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 100px;
+}
+.info-text{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    font-size: 1.5rem;
+    font-family: "Merriweather", serif
+}
+.info > h1{
+    color: rgb(41, 147, 147);
+    text-align: center;
+    margin-top: 30px;
+
+}
+hr {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.education{
+    margin-bottom: 50px;
+}
+.contact{
+    margin-bottom: 120px;
+}
